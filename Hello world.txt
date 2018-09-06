@@ -1,3 +1,4 @@
-print("Hello world")
+﻿print("Hello world")
 print("Hello everybody")
-print("Как ваше имя?")
+print("Как ваше имя?"), $
+Print("Привет $")
