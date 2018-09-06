@@ -4,3 +4,4 @@ print("Как ваше имя?"), $
 Print("Привет $")
 Print("Как поживаете?")
 Print("Hello my dear friend")
+print("Glad to see you")
