@@ -2,3 +2,4 @@
 print("Hello everybody")
 print("Как ваше имя?"), $
 Print("Привет $")
+Print("Как поживаете?")
